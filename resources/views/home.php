@@ -1,0 +1,1 @@
+<p>User is : <?php echo $username ?></p>
